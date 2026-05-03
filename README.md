@@ -1,1 +1,1 @@
-
+![Claude Code Terminal](https://coolreadme.xyz/api/claude-code-card-svg?user=sojanvarghese&handle=sojanvarghese&model=sonnet-4-6&branch=main&workdir=Neeto&command=claude%20%22Fixed%20Playwright%20tests%22)
