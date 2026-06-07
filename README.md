@@ -1,1 +1,1 @@
-![Claude Code Terminal](https://coolreadme.xyz/api/claude-code-card-svg?user=sojanvarghese&handle=sojanvarghese&model=sonnet-4-6&branch=main&workdir=Neeto&command=claude%20%22Fixed%20Playwright%20tests%22)
+![Hero Banner](https://coolreadme.xyz/api/hero-banner?user=yerdaulet-damir&theme=dark&accent=%2360A5FA&title=Sojan%20Varghese&subtitle=SWE%20(QA)%20%7C%20AI%20Enhanced%20Coder)
